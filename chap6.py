@@ -111,4 +111,4 @@ def gcd(a, b):
 		else:
 			return gcd(a, r)
 
-print gcd(18, 2)
+print gcd(9, 12)
